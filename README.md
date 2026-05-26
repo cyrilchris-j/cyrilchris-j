@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:111111&height=260&section=header&text=Cyril%20Chris%20J&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20AI%20Engineer%20•%20UI/UX%20Designer&descAlignY=58"/>
+# 👨‍💻 Cyril Chris J
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=Building+Modern+AI-Powered+Experiences;Creative+MERN+Stack+Developer;Designing+Smooth+UI%2FUX+Interfaces;Hackathon+Focused+Innovator;Fast+Builds+%E2%80%A2+Modern+UI+%E2%80%A2+Scalable+Systems" />
+### MERN Stack Developer • AI Engineer • UI/UX Designer
 
-<br/>
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=cyrilchris-j&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=cyrilchris-j&label=Profile%20Views&color=grey&style=flat" />
 
 </div>
 
@@ -40,8 +39,7 @@ const cyril = {
     currentlyLearning: [
         "Generative AI",
         "Advanced React Architecture",
-        "System Design",
-        "AI Integrations"
+        "System Design"
     ],
 
     tools: [
@@ -57,11 +55,11 @@ const cyril = {
 
 ---
 
-# ⚡ Development Philosophy
+# ⚡ Engineering Philosophy
 
 - Performance First
-- AI Integrated Products
 - Clean UI/UX
+- AI Integrated Products
 - Scalable Architecture
 - User-Centered Design
 - Modern Web Experiences
@@ -88,11 +86,11 @@ const cyril = {
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-<br/>
+<br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-E10600?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge)
 
 ---
 
@@ -100,10 +98,10 @@ const cyril = {
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
-<br/>
+<br>
 
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Stitch](https://img.shields.io/badge/Stitch-E10600?style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-grey?style=for-the-badge)
 
 ---
 
@@ -111,9 +109,9 @@ const cyril = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 
-<br/>
+<br>
 
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Builder-E10600?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Builder-black?style=for-the-badge)
 
 </div>
 
@@ -137,23 +135,13 @@ const cyril = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyrilchris-j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyrilchris-j&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilchris-j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilchris-j&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrilchris-j&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🏎 Inspired By Speed & Precision
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:E10600&height=180&section=header&text=Fast%20Builds%20•%20Modern%20UI%20•%20AI%20Powered&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrilchris-j&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -164,15 +152,15 @@ const cyril = {
 <div align="center">
 
 <a href="https://github.com/cyrilchris-j">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:cyrilchrisj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -181,8 +169,6 @@ const cyril = {
 
 <div align="center">
 
-## 🔥 Designing Intelligent Digital Experiences
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:E10600&height=140&section=footer"/>
+### Designing Intelligent Digital Experiences
 
 </div>
