@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Cyril Chris J
+# 👨‍💻 Cyril Christopher J
 
 ### MERN Stack Developer • AI Engineer • UI/UX Designer
 
