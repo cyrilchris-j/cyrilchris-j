@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👨‍💻 Cyril Chris J
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:111111&height=260&section=header&text=Cyril%20Chris%20J&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20AI%20Engineer%20•%20UI/UX%20Designer&descAlignY=58"/>
 
-### MERN Stack Developer • AI Engineer • UI/UX Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=Building+Modern+AI-Powered+Experiences;Creative+MERN+Stack+Developer;Designing+Smooth+UI%2FUX+Interfaces;Hackathon+Focused+Innovator;Fast+Builds+%E2%80%A2+Modern+UI+%E2%80%A2+Scalable+Systems" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Builder;Modern+UI%2FUX+Designer;Hackathon+Focused+Developer;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
+<br/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d9a3c7e-5f52-4f38-9c8b-f0f6f2c4f3a9.gif" width="700"/>
+<img src="https://komarev.com/ghpvc/?username=cyrilchris-j&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
 
 </div>
 
@@ -16,32 +17,54 @@
 
 ```javascript
 const cyril = {
-    role: "MERN Stack Developer & AI Builder",
-    focus: [
-        "Full Stack Web Development",
-        "Artificial Intelligence",
-        "Modern UI/UX",
-        "Cloud & Deployment",
-        "Hackathon Innovation"
+    role: "MERN Stack Developer & AI Engineer",
+
+    specialization: [
+        "Modern Full Stack Development",
+        "AI-Powered Applications",
+        "Creative UI/UX Experiences",
+        "Real-Time Web Platforms",
+        "Hackathon Product Building"
     ],
-    currentlyLearning: ["GenAI", "Advanced React", "System Design"],
-    motto: "Build Products That Create Real Impact"
+
+    uiux: {
+        designing: ["Figma", "Framer", "Stitch"],
+        focus: [
+            "Modern Interfaces",
+            "Smooth User Experience",
+            "Responsive Design Systems",
+            "Interactive Animations"
+        ]
+    },
+
+    currentlyLearning: [
+        "Generative AI",
+        "Advanced React Architecture",
+        "System Design",
+        "AI Integrations"
+    ],
+
+    tools: [
+        "Antigravity",
+        "GitHub",
+        "Firebase",
+        "Vercel"
+    ],
+
+    motto: "Build Fast. Design Smart. Create Impact."
 };
 ```
 
 ---
 
-# 🧠 AI & Modern Technologies
+# ⚡ Development Philosophy
 
-<div align="center">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=pytorch&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+- Performance First
+- AI Integrated Products
+- Clean UI/UX
+- Scalable Architecture
+- User-Centered Design
+- Modern Web Experiences
 
 ---
 
@@ -49,28 +72,48 @@ const cyril = {
 
 <div align="center">
 
-### Frontend
+## 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 
 ---
 
-### Backend
+## ⚙️ Backend & Database
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 ---
 
-### Tools
+## 🧠 AI & Modern Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-E10600?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 🎯 UI/UX Design
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+<br/>
+
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-E10600?style=for-the-badge)
+
+---
+
+## ☁️ Deployment & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+
+<br/>
+
+![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Builder-E10600?style=for-the-badge)
 
 </div>
 
@@ -80,11 +123,11 @@ const cyril = {
 
 <div align="center">
 
-| Project | Description | Tech |
+| 🚀 Project | 🔥 Description | ⚡ Stack |
 |---|---|---|
-| 🐃 Class Buffalo | AI-powered buffalo breed classifier using deep learning | MERN + AI |
-| 🌍 Safe Tour | Smart safety travel platform with real-time features | React + Firebase |
-| 🌱 Agri AI Platform | AI-based farmer assistance and crop intelligence | AI + Cloud |
+| 🧠 QuizSnap | AI-powered smart quiz and learning platform | MERN + AI |
+| 💰 Expense Tracker | Modern finance & expense management application | MERN Stack |
+| 🛣 AI Roadmap Generator | Personalized AI-generated developer roadmaps | React + OpenAI |
 
 </div>
 
@@ -98,29 +141,21 @@ const cyril = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilchris-j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrilchris-j&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏎 Inspired By Speed & Precision
 
 <div align="center">
 
-![snake gif](https://github.com/cyrilchris-j/cyrilchris-j/blob/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:E10600&height=180&section=header&text=Fast%20Builds%20•%20Modern%20UI%20•%20AI%20Powered&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 </div>
-
----
-
-# 🏆 Achievements
-
-🏅 AI-Based Full Stack Projects  
-🏅 Hackathon Focused Builder  
-🏅 Modern UI/UX Development  
-🏅 Real-Time Web Applications  
-🏅 Cloud Deployment & Optimization  
 
 ---
 
@@ -129,14 +164,14 @@ const cyril = {
 <div align="center">
 
 <a href="https://github.com/cyrilchris-j">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:cyrilchrisj@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -146,8 +181,8 @@ const cyril = {
 
 <div align="center">
 
-## ⚡ Building Modern AI-Powered Digital Experiences
+## 🔥 Designing Intelligent Digital Experiences
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:E10600&height=140&section=footer"/>
 
 </div>
