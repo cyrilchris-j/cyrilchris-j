@@ -1,14 +1,30 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Cyril Christopher J</h1>
 
-# 👨‍💻 Cyril Christopher J
+<h3 align="center">
+Full Stack Developer • MERN Stack Engineer • AI Engineer • UI/UX Designer
+</h3>
 
-### MERN Stack Developer • AI Engineer • UI/UX Designer
+<p align="center">
+Building AI-Powered Products, Scalable Web Applications & Modern User Experiences
+</p>
 
-<br>
+<p align="center">
+<a href="https://github.com/cyrilchris-j">
+<img src="https://img.shields.io/badge/GitHub-cyrilchris--j-181717?style=for-the-badge&logo=github">
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=cyrilchris-j&label=Profile%20Views&color=grey&style=flat" />
+<a href="https://www.linkedin.com/in/cyrilchristopherj28/">
+<img src="https://img.shields.io/badge/LinkedIn-Cyril%20Christopher%20J-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-</div>
+<a href="mailto:cyrilchrisj@gmail.com">
+<img src="https://img.shields.io/badge/Email-cyrilchrisj@gmail.com-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://cyrilchrisj-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-000000?style=for-the-badge&logo=vercel">
+</a>
+</p>
 
 ---
 
@@ -16,37 +32,28 @@
 
 ```javascript
 const cyril = {
-    role: "MERN Stack Developer & AI Engineer",
+    role: "Full Stack Developer & AI Engineer",
 
     specialization: [
-        "Modern Full Stack Development",
-        "AI-Powered Applications",
-        "Creative UI/UX Experiences",
-        "Real-Time Web Platforms",
-        "Hackathon Product Building"
+        "MERN Stack Development",
+        "Artificial Intelligence",
+        "Generative AI Applications",
+        "UI/UX Design",
+        "Modern Web Technologies"
     ],
-
-    uiux: {
-        designing: ["Figma", "Framer", "Stitch"],
-        focus: [
-            "Modern Interfaces",
-            "Smooth User Experience",
-            "Responsive Design Systems",
-            "Interactive Animations"
-        ]
-    },
 
     currentlyLearning: [
-        "Generative AI",
         "Advanced React Architecture",
-        "System Design"
+        "System Design",
+        "AI Agents",
+        "Cloud Technologies"
     ],
 
-    tools: [
-        "Antigravity",
-        "GitHub",
-        "Firebase",
-        "Vercel"
+    passions: [
+        "Building Scalable Products",
+        "Hackathon Innovation",
+        "AI-Powered Solutions",
+        "Designing User-Centric Experiences"
     ],
 
     motto: "Build Fast. Design Smart. Create Impact."
@@ -55,120 +62,293 @@ const cyril = {
 
 ---
 
-# ⚡ Engineering Philosophy
+# 💼 Professional Summary
 
-- Performance First
-- Clean UI/UX
-- AI Integrated Products
-- Scalable Architecture
-- User-Centered Design
-- Modern Web Experiences
+Results-driven Computer Science student and Full Stack Developer passionate about creating intelligent digital products.
+
+### Core Competencies
+
+✅ Full Stack Web Development
+
+✅ MERN Stack Engineering
+
+✅ AI-Powered Applications
+
+✅ Prompt Engineering
+
+✅ REST API Development
+
+✅ Responsive UI/UX Design
+
+✅ Product Development
+
+✅ Hackathon Solutions
+
+✅ Database Design
+
+✅ Scalable Architecture
 
 ---
 
-# 💻 MERN Stack Arsenal
+# 🛠 Tech Stack
 
-<div align="center">
+## Frontend
 
-## 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+## Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## ⚙️ Backend & Database
+## Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
----
+## Programming Languages
 
-## 🧠 AI & Modern Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
+</p>
 
+## AI & Machine Learning
+
+<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-<br>
+- OpenAI API
+- Generative AI
+- Prompt Engineering
+- AI Agents
+- Machine Learning Fundamentals
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge)
+## UI/UX Design
 
----
-
-## 🎯 UI/UX Design
-
+<p>
 <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-<br>
+- Framer
+- Stitch
+- Wireframing
+- Design Systems
+- Prototyping
+- User Research
 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white)
-![Stitch](https://img.shields.io/badge/Stitch-grey?style=for-the-badge)
+## Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,netlify" />
+</p>
 
 ---
 
-## ☁️ Deployment & Tools
+# 📈 Technical Skills
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
-
-<br>
-
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Builder-black?style=for-the-badge)
-
-</div>
+| Category | Technologies |
+|-----------|-------------|
+| Languages | JavaScript, TypeScript, Python, Java, C |
+| Frontend | React.js, Next.js, Tailwind CSS, Bootstrap, Vite |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Firebase, MySQL |
+| AI | OpenAI API, Generative AI, Prompt Engineering |
+| Design | Figma, Framer, Stitch |
+| Cloud & Deployment | Vercel, Firebase, Netlify |
+| Tools | Git, GitHub |
+| Concepts | REST APIs, Authentication, Responsive Design, System Design |
 
 ---
 
 # 🌟 Featured Projects
 
-<div align="center">
+## 🧠 QuizSnap
 
-| 🚀 Project | 🔥 Description | ⚡ Stack |
-|---|---|---|
-| 🧠 QuizSnap | AI-powered smart quiz and learning platform | MERN + AI |
-| 💰 Expense Tracker | Modern finance & expense management application | MERN Stack |
-| 🛣 AI Roadmap Generator | Personalized AI-generated developer roadmaps | React + OpenAI |
+AI-powered quiz generation and smart learning platform.
 
-</div>
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `OpenAI API`
+
+### Key Features
+
+- AI-generated quizzes
+- Personalized learning
+- Progress analytics
+- Smart recommendations
+
+---
+
+## 🛣 AI Roadmap Generator
+
+Generate personalized learning roadmaps for any career path.
+
+**Tech Stack**
+
+`React` `Node.js` `OpenAI`
+
+### Key Features
+
+- AI-generated career roadmaps
+- Skill gap analysis
+- Learning recommendations
+- Progress tracking
+
+---
+
+## 💰 Expense Tracker
+
+Modern finance and expense management application.
+
+**Tech Stack**
+
+`MERN Stack`
+
+### Key Features
+
+- Expense tracking
+- Budget planning
+- Analytics dashboard
+- Responsive design
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+Advanced GitHub insights and contribution tracking platform.
+
+**Tech Stack**
+
+`React` `GitHub API`
+
+---
+
+# 🏆 Achievements
+
+🏅 Hackathon Participant
+
+🏅 Full Stack Product Builder
+
+🏅 AI Application Developer
+
+🏅 UI/UX Designer
+
+🏅 Open Source Enthusiast
+
+🏅 Continuous Learner
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React Patterns
+- System Design
+- AI Agents
+- Cloud Computing
+- Scalable Backend Architecture
+- Software Engineering Best Practices
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyrilchris-j&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyrilchris-j&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilchris-j&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilchris-j&layout=compact&theme=tokyonight"/>
 
-<br>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrilchris-j&theme=github-dark&hide_border=true"/>
+---
 
-</div>
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=cyrilchris-j&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/cyrilchris-j">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+GitHub
 </a>
+&nbsp;|&nbsp;
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/cyrilchristopherj28/">
+LinkedIn
 </a>
+&nbsp;|&nbsp;
 
 <a href="mailto:cyrilchrisj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white"/>
+Email
+</a>
+&nbsp;|&nbsp;
+
+<a href="https://cyrilchrisj-portfolio.vercel.app/">
+Portfolio
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 💡 Engineering Philosophy
 
-### Designing Intelligent Digital Experiences
+### Performance First
 
-</div>
+Build fast, optimized, and scalable applications.
+
+### User-Centered Design
+
+Every product starts with the user.
+
+### AI-Powered Innovation
+
+Leverage AI to solve real-world problems.
+
+### Clean Architecture
+
+Maintainable and scalable codebases.
+
+### Continuous Learning
+
+Technology evolves. So should developers.
+
+---
+
+# 🎯 Career Objective
+
+Seeking opportunities in:
+
+- Software Development
+- Full Stack Development
+- Frontend Engineering
+- AI Engineering
+- Product Engineering
+- UI/UX Design
+- Startup Innovation
+- Research & Development
+
+---
+
+# 📌 Motto
+
+> Build Fast. Design Smart. Create Impact.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following me and checking out my repositories.
+</p>
