@@ -1,18 +1,26 @@
 <h1 align="center">Cyril Christopher J</h1>
 
 <p align="center">
-<b>Full Stack Developer • AI Engineer</b>
+  <strong>Full Stack Developer • AI Engineer</strong>
 </p>
 
 <p align="center">
-Build. Automate. Innovate.
+  Build. Automate. Innovate.
 </p>
 
 <p align="center">
-<a href="https://github.com/cyrilchris-j">GitHub</a> •
-<a href="https://www.linkedin.com/in/cyrilchristopherj28/">LinkedIn</a> •
-<a href="https://cyrilchrisj-portfolio.vercel.app/">Portfolio</a> •
-<a href="mailto:cyrilchrisj@gmail.com">Email</a>
+  <a href="https://github.com/cyrilchris-j">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cyrilchristopherj28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cyrilchrisj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:cyrilchrisj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
